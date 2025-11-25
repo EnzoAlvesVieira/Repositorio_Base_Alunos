@@ -1,1 +1,1 @@
-Aqui, vocês vão colocar os códigos sobre exercícios "soltos" tipo o código do aluguel de carro, sem streamlit
+Aqui nessa pasta, vocês vão salvar todas as atividades referentes a manipulação de arquivos e automação, pyautogui, biblioteca os, biblioteca csv, json etc
